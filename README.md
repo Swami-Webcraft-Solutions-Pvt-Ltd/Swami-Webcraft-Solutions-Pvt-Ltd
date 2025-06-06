@@ -38,12 +38,8 @@ We specialize in:
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🔗 [PessoFresh.in](https://pessofresh.in) | Full-featured Laravel e-commerce with payment gateway | Laravel, Razorpay |
-| 🔗 [DrSSDental.com](https://drssdental.com) | SEO-friendly static dental clinic site with email services | PHP, HTML, SEO |
-| 🔗 [NDC Diagnostic](https://ndcdiagnostic.in) | Health package comparison & lead generation | PHP, JS, Custom CMS |
 | 🔗 [Hiring Portal](https://hiring.abss.co.in) | Recruitment management system | Laravel, MySQL |
 | 🔗 [AgentHub CRM](https://agenthub.abss.co.in) | Lead tracking CRM for BPO | Laravel, Vue |
-| 🔗 [ArdenVive.com](https://ardenvive.com) | Static wellness brand website | HTML, CSS, JS |
 
 ---
 
